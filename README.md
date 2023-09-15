@@ -1,10 +1,9 @@
 # Neural-Networks-and-Deep-Learning-ICP-5
 
-Name: Lnu Rumana Thaskeen 
-Student ID: 700742859
-CRN: 23216
+Name: Pasumarthi Shanmukha Laxmi 
+Student ID: 700756736
 
-Link to Description: https://docs.google.com/document/d/1q7ZxjV-jN26A0OJrjb986rJb3CXKw50E/edit?usp=sharing&ouid=104224780424464634499&rtpof=true&sd=true
+Link to Description: 
 
 Linear SVM has a better accuracy score than Gaussian Naive Bayes with 62.61% compared to 53.49%. The reason for this could be because Linear SVM is better suited for complex and non-linearly separable datasets. The SVM algorithm tries to find the maximum margin between the data points and the decision boundary, which makes it robust to outliers and non-linearities. Additionally, SVM allows for more flexibility in terms of choosing different kernel functions to tackle different types of data distributions. Gaussian Naive Bayes, on the other hand, assumes independence between the features and is not as robust as SVM for complex datasets.
 
